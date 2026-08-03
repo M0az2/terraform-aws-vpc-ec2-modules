@@ -267,6 +267,4 @@ After a successful `terraform apply`, the following resources are provisioned:
 
 ---
 
-<div align="center">
-  <sub>Built with ❤️ using Terraform & AWS</sub>
-</div>
+
